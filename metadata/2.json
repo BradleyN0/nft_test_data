@@ -1,0 +1,63 @@
+{
+    "name": "Misplaced Parking #2",
+    "description": "This lighthearted collection commemorates the adventurous parking choices of our beloved coworker, capturing the spirit of mischief and camaraderie in the workplace. Here's to the joys and laughs shared along the way. Not to be taken as a parking guide!",
+    "external_url": "",
+    "utilityDescription": "Owning this NFT grants you the honorary right to (jokingly) claim a parking spot at the company lot, subject to the availability of spaces not reserved by others. This collection is for fun and holds no legal weight. Terms like 'availability' are subject to interpretation, much like our friend's view of parking signs.",
+    "utilityInstructions": "",
+    "image": "https://github.com/BradleyN0/nft_test_data/blob/main/images/1.jpg",
+    "image_shard": "https://github.com/BradleyN0/nft_test_data/blob/main/images/1.jpg",
+    "status": "Active",
+    "type": "Commemorative",
+    "attributes": [
+        {
+            "trait_type": "Id",
+            "value": "1",
+            "rarity": ""
+        },
+        {
+            "trait_type": "Misplacement Rating",
+            "value": "Expert",
+            "rarity": "Rare"
+        },
+        {
+            "trait_type": "Spot Claimed",
+            "value": "CEO's",
+            "rarity": "Ultra Rare"
+        },
+        {
+            "trait_type": "Reaction Level",
+            "value": "Laughing Colleagues",
+            "rarity": "Common"
+        },
+        {
+            "trait_type": "Stealth Mode",
+            "value": "Failed",
+            "rarity": "Common"
+        },
+        {
+            "trait_type": "Escape Plan",
+            "value": "None",
+            "rarity": "Legendary"
+        },
+        {
+            "trait_type": "Spot Availability Misinterpretation Level",
+            "value": "High",
+            "rarity": "Rare"
+        },
+        {
+            "trait_type": "Parking Skill",
+            "value": "Questionable",
+            "rarity": "Epic"
+        },
+        {
+            "trait_type": "Coworker's Humor Level",
+            "value": "Through the Roof",
+            "rarity": "Epic"
+        },
+        {
+            "trait_type": "Lunches claimable for spotting",
+            "value": "1",
+            "rarity": "Common"
+        }
+    ]
+}
