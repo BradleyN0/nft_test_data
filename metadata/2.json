@@ -4,8 +4,8 @@
     "external_url": "",
     "utilityDescription": "Owning this NFT grants you the honorary right to (jokingly) claim a parking spot at the company lot, subject to the availability of spaces not reserved by others. This collection is for fun and holds no legal weight. Terms like 'availability' are subject to interpretation, much like our friend's view of parking signs.",
     "utilityInstructions": "",
-    "image": "https://github.com/BradleyN0/nft_test_data/blob/main/images/1.jpg",
-    "image_shard": "https://github.com/BradleyN0/nft_test_data/blob/main/images/1.jpg",
+    "image": "https://raw.githubusercontent.com/BradleyN0/nft_test_data/main/images/1.jpg",
+    "image_shard": "https://raw.githubusercontent.com/BradleyN0/nft_test_data/main/images/1.jpg",
     "status": "Active",
     "type": "Commemorative",
     "attributes": [
